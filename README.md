@@ -8,6 +8,10 @@ Was a fun little experiment that introduced me to game programming and higher le
 I learned a lot about the MVC paradigm (although its use was limited for a game) and threading and
 event based programming. I also learned about asset utilization and optimization.
 
+It's a (very) very simple top-down tile based shooter where you just use the WASD keys and the mouse to move
+and shoot. I spent a lot of time on the graphics and the game logic behind the sprites, movement and bullets.
+The tile collision isn't perfect, but it shouldn't be too frustrating!
+
 I acutually submitted this as a supplement to a few colleges when applying to show them how much I wanted
 to do Computer Science.
 
