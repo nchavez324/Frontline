@@ -19,6 +19,7 @@ The project was done in Eclipse, back with Java SE 1.6.
 
 All graphics and image assets are mine: I made all of them.
 
+====================
 The MIT License (MIT) 
 Copyright © 2014 Nick Chavez
 
